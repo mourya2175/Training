@@ -8,7 +8,9 @@ public class First {
   @Test
   public void f() {
 	  System.out.println("My First Maven Project");
-  }
+  
+System.out.println("added new line");
+ }
   @BeforeClass
   public void beforeClass() {
   }
